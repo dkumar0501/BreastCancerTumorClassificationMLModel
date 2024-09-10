@@ -1,4 +1,4 @@
-# Breast Cancer Tumor Classification Machine Learning Model
+# Breast Cancer Tumor Classification ML Model
 
 ## Project Overview
 
