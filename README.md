@@ -1,4 +1,4 @@
-# Breast Cancer Tumor Classification ML Model
+![Screenshot 2025-02-21 141902](https://github.com/user-attachments/assets/464b8ae8-623c-4c1f-b9d3-65a53448440b)# Breast Cancer Tumor Classification ML Model
 ## Overview
 
 This project develops a Breast Cancer Tumor Classification model using Convolutional Neural Networks (CNN). The model classifies breast tumors as malignant, benign, or normal based on ultrasound images, achieving 92% accuracy. It utilizes over 700 ultrasound images and includes data preprocessing, augmentation, and model optimization.
@@ -24,3 +24,10 @@ This project develops a Breast Cancer Tumor Classification model using Convoluti
 4. **Optimization:** Hyperparameter tuning improves performance by 15%.
 5. **Validation:** Collaboration with medical professionals ensures clinical relevance.
 
+
+
+![Screenshot 2025-02-21 141902](https://github.com/user-attachments/assets/6dc4f3ab-6a7d-41b1-94a7-d082e4b8707e)
+
+![Screenshot 2025-02-21 142003](https://github.com/user-attachments/assets/60a08e47-25dd-4adc-8571-9da42873504f)
+
+![Screenshot 2025-02-21 142022](https://github.com/user-attachments/assets/29f34245-c63d-4998-9631-e5039b6487ba)
