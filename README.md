@@ -24,4 +24,3 @@ This project develops a Breast Cancer Tumor Classification model using Convoluti
 4. **Optimization:** Hyperparameter tuning improves performance by 15%.
 5. **Validation:** Collaboration with medical professionals ensures clinical relevance.
 
-Deployment
