@@ -28,6 +28,4 @@ This project develops a Breast Cancer Tumor Classification model using Convoluti
 
 ![Screenshot 2025-02-21 141902](https://github.com/user-attachments/assets/6dc4f3ab-6a7d-41b1-94a7-d082e4b8707e)
 
-![Screenshot 2025-02-21 142003](https://github.com/user-attachments/assets/60a08e47-25dd-4adc-8571-9da42873504f)
-
 ![Screenshot 2025-02-21 142022](https://github.com/user-attachments/assets/29f34245-c63d-4998-9631-e5039b6487ba)
