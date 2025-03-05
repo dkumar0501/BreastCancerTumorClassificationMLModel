@@ -7,9 +7,9 @@ from tensorflow.keras.preprocessing.image import ImageDataGenerator
 import os
 
 # Define constants
-IMG_SIZE = (150, 150)
-BATCH_SIZE = 32
-EPOCHS = 10
+IMG_SIZE = (150, 200)
+BATCH_SIZE = 50
+EPOCHS = 25
 
 # Load dataset (assuming it's structured in 'train' and 'validation' directories)
 dataset_path = "path_to_dataset"  # Update with the correct dataset path
