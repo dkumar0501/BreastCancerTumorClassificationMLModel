@@ -18,13 +18,13 @@ validation_dir = os.path.join(dataset_path, "validation")
 
 # Data Augmentation and Preprocessing
 train_datagen = ImageDataGenerator(
-    rescale=1.0/255,
-    rotation_range=30,
-    width_shift_range=0.2,
-    height_shift_range=0.2,
-    shear_range=0.2,
-    zoom_range=0.2,
-    horizontal_flip=True
+    rescale=______
+    rotation_range=______
+    width_shift_range=______
+    height_shift_range=______
+    shear_range=______
+    zoom_range=______
+    horizontal_flip=_____
 )
 
 validation_datagen = ImageDataGenerator(rescale=1.0/255)
