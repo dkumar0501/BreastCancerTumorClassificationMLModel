@@ -6,17 +6,16 @@ import matplotlib.pyplot as plt
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 import os
 
-# Define constants
+
 IMG_SIZE = (150, 200)
 BATCH_SIZE = 50
 EPOCHS = 25
 
-# Load dataset (assuming it's structured in 'train' and 'validation' directories)
+
 dataset_path = "path_to_dataset"  # Update with the correct dataset path
 train_dir = os.path.join(dataset_path, "train")
 validation_dir = os.path.join(dataset_path, "validation")
 
-# Data Augmentation and Preprocessing
 train_datagen = ImageDataGenerator(
     rescale=______
     rotation_range=______
@@ -43,7 +42,7 @@ validation_generator = validation_datagen.flow_from_directory(
     class_mode='binary'
 )
 
-# Define CNN Model
+
 model = keras.Sequential([
     layers.Conv2D(32, (3,3), activation='relu', input_shape=(150, 150, 3)),
     layers.MaxPooling2D(2,2),
@@ -57,12 +56,12 @@ model = keras.Sequential([
     layers.Dense(1, activation='sigmoid')  # Change to softmax for multi-class
 ])
 
-# Compile the model
+
 model.compile(optimizer='adam',
               loss='binary_crossentropy',  # Use 'categorical_crossentropy' for multi-class
               metrics=['accuracy'])
 
-# Train the model
+
 history = model.fit(
     train_generator,
     validation_data=validation_generator,
@@ -70,10 +69,9 @@ history = model.fit(
     verbose=1
 )
 
-# Save the model
 model.save("breast_cancer_classifier.h5")
 
-# Plot training history
+
 plt.plot(history.history['accuracy'], label='Train Accuracy')
 plt.plot(history.history['val_accuracy'], label='Validation Accuracy')
 plt.xlabel('Epochs')
