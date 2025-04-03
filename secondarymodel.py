@@ -6,17 +6,17 @@ import matplotlib.pyplot as plt
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 import os
 
-# Define image size and batch size
-IMG_SIZE = (150, 150)  # Ensuring consistency with model input
+
+IMG_SIZE = (150, 150) 
 BATCH_SIZE = 50
 EPOCHS = 25
 
-# Define dataset paths (Update this before running)
+
 dataset_path = "path_to_dataset"  
 train_dir = os.path.join(dataset_path, "train")
 validation_dir = os.path.join(dataset_path, "validation")
 
-# Data Augmentation for training set
+
 train_datagen = ImageDataGenerator(
     rescale=1.0/255,
     rotation_range=30,
@@ -27,10 +27,10 @@ train_datagen = ImageDataGenerator(
     horizontal_flip=True
 )
 
-# Validation dataset (Only rescaling)
+
 validation_datagen = ImageDataGenerator(rescale=1.0/255)
 
-# Data Generators
+
 train_generator = train_datagen.flow_from_directory(
     train_dir,
     target_size=IMG_SIZE,
