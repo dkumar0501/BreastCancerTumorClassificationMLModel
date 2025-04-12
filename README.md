@@ -11,9 +11,9 @@ This project develops a Breast Cancer Tumor Classification model using Convoluti
 
 ## Key Features
 
-- **Accuracy:** 92% in classifying breast tumors.
+- **Accuracy:** 91% in classifying breast tumors.
 - **Model:** CNN architecture with optimized hyperparameters.
-- **Dataset:** 700+ ultrasound images.
+- **Dataset:** 1000+ ultrasound images.
 - **Techniques:** Data preprocessing, augmentation, and model fine-tuning.
 
 ## How It Works
