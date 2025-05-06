@@ -3,7 +3,7 @@ from tensorflow.keras import layers, models, callbacks
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 import os  
 import matplotlib.pyplot as plt
-
+  
 # Configuration  
 IMG_SIZE = (150, 150)  
 BATCH_SIZE = 32
