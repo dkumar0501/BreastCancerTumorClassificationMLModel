@@ -5,7 +5,7 @@ import os
 import matplotlib.pyplot as plt
 
 # Configuration  
-IMG_SIZE = (150, 150)
+IMG_SIZE = (150, 150)  
 BATCH_SIZE = 32
 EPOCHS = 50
 DATASET_PATH = "path_to_dataset"  # Replace with your actual dataset path
