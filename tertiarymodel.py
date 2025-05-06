@@ -1,7 +1,7 @@
 import tensorflow as tf
 from tensorflow.keras import layers, models, callbacks
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
-import os
+import os  
 import matplotlib.pyplot as plt
 
 # Configuration  
