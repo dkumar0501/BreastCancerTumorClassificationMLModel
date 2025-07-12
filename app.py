@@ -4,7 +4,7 @@ from img_classification import teachable_machine_classification
 
 st.title("Breast Cancer Detection R&D D_Kumar IIT Patna")
 st.header("Ultrasound Cancer Image Upload")
-st.text("Cancer Type Classification ") 
+st.text("Is There Cancer In Your Body This Machine Will Tell ") 
 
 
 uploaded_file = st.file_uploader("Choose a scan ...", type="png")
