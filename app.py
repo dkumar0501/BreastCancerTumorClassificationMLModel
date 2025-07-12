@@ -6,7 +6,7 @@ st.title("Breast Cancer Detection R&D D_Kumar IIT Patna")
 st.header("Ultrasound Cancer Image Upload")
 st.text("Is There Cancer In Your Body This Machine Will Tell ") 
 
-  
+   
 uploaded_file = st.file_uploader("Choose a scan ...", type="png")
 if uploaded_file is not None:
     image = Image.open(uploaded_file)
