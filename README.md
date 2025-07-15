@@ -9,7 +9,7 @@ This project develops a Breast Cancer Tumor Classification model using Convoluti
 - **Libraries/Frameworks:** TensorFlow, Keras, OpenCV, Matplotlib, NumPy
 - **Version Control:** Git, GitHub
 
-## Key Features
+## Key Features 
 
 - **Accuracy:** 91% in classifying breast tumors.
 - **Model:** CNN architecture with optimized hyperparameters.
