@@ -1,6 +1,6 @@
 import streamlit as st
 from PIL import Image, ImageOps  
-from img_classification import teachable_machine_classification 
+from img_classification import teachable_machine_classification  
 
 st.title("Breast Cancer Detection R&D D_Kumar IIT Patna")
 st.header("Ultrasound Cancer Image Upload")
