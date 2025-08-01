@@ -1,4 +1,4 @@
-import streamlit as st
+import streamlit as st 
 from PIL import Image, ImageOps    
 from img_classification import teachable_machine_classification   
 
