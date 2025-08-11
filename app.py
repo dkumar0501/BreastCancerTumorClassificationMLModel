@@ -13,13 +13,14 @@ if uploaded_file is not None:
     st.image(image, caption='Uploaded Scan.', use_column_width=True)
     st.write("") 
     st.write("Classifying...")
-    label = teachable_machine_classification(image, 'model/keras_model.h5')
+    label = teachable_machine_classification(image, 'model/keras_model.h5') 
     if label == 0:
         st.write("Congratulations The Scan Is Normal No Need To Worry")
     elif label == 1: 
         st.write("The Scan Is Malignant Cum Cancerous")
     else:
         st.write("The Scan Is Benign Cum Non Cancerous")
+
 
 
 
