@@ -5,7 +5,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 import os
-  
+   
 
 IMG_SIZE = (150, 150) 
 BATCH_SIZE = 50
