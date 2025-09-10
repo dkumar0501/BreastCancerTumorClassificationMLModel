@@ -4,7 +4,7 @@ from img_classification import teachable_machine_classification
   
 st.title("Breast Cancer Detection R&D D_Kumar IIT Patna") 
 st.header("Ultrasound Cancer Image Upload")
-st.text("Is There Cancer In Your Body This Machine Will Tell ")  
+st.text("Is There Cancer In Your Body This Machine Will Tell ")   
 
      
 uploaded_file = st.file_uploader("Choose a scan ...", type="png") 
@@ -20,6 +20,7 @@ if uploaded_file is not None:
         st.write("The Scan Is Malignant Cum Cancerous")
     else:
         st.write("The Scan Is Benign Cum Non Cancerous")
+
 
 
 
