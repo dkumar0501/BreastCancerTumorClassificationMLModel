@@ -2,7 +2,7 @@ import streamlit as st
 from PIL import Image, ImageOps      
 from img_classification import teachable_machine_classification    
   
-st.title("Breast Cancer Detection R&D D_Kumar IIT Patna")
+st.title("Breast Cancer Detection R&D D_Kumar IIT Patna") 
 st.header("Ultrasound Cancer Image Upload")
 st.text("Is There Cancer In Your Body This Machine Will Tell ")  
 
@@ -20,6 +20,7 @@ if uploaded_file is not None:
         st.write("The Scan Is Malignant Cum Cancerous")
     else:
         st.write("The Scan Is Benign Cum Non Cancerous")
+
 
 
 
