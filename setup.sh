@@ -14,3 +14,4 @@ port = \$PORT\n\
 
 echo "\
 [general]\n\
+email = \"dkumar0501@gmail.com\"\n\
