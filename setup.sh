@@ -13,3 +13,4 @@ port = \$PORT\n\
 " > ~/.streamlit/config.toml
 
 echo "\
+[general]\n\
