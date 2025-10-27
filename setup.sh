@@ -16,3 +16,5 @@ echo "\
 [general]\n\
 email = \"dkumar0501@gmail.com\"\n\
 " > ~/.streamlit/credentials.toml
+
+echo"
