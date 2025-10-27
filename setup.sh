@@ -17,4 +17,5 @@ echo "\
 email = \"dkumar0501@gmail.com\"\n\
 " > ~/.streamlit/credentials.toml
 
-echo"
+echo "\
+
