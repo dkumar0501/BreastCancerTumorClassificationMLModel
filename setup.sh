@@ -20,5 +20,7 @@ email = \"dkumar0501@gmail.com\"\n\
 echo "\
 [server]\n\
 headless = true\n\
+enableCORS=false
+
 
 
