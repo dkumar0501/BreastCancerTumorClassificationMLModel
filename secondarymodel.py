@@ -11,7 +11,7 @@ IMG_SIZE = (150,150)
 BATCH_SIZE = 50
 EPOCHS = 30 
 
-
+ 
 dataset_path = "path_to_dataset"  
 train_dir = os.path.join(dataset_path, "train")
 validation_dir = os.path.join(dataset_path, "validation")
