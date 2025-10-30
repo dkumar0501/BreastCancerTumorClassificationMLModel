@@ -24,7 +24,7 @@ train_datagen = ImageDataGenerator(
     height_shift_range=0.2,
     shear_range=0.15,
     zoom_range=0.3,
-    horizontal_flip=True
+    horizontal_flip=True 
 )
 
 
