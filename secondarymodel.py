@@ -7,7 +7,7 @@ from tensorflow.keras.preprocessing.image import ImageDataGenerator
 import os
    
  
-IMG_SIZE = (150, 50)  
+IMG_SIZE = (150,50)  
 BATCH_SIZE = 50
 EPOCHS = 25
 
