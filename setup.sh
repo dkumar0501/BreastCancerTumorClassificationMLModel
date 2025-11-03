@@ -2,7 +2,7 @@
 
 echo "\
 [general]\n\
-email = \"dkumar0501@gmail.com\"\n\
+email = \"dkumar0501@gmail.com\"\n\ 
 " > ~/.streamlit/credentials.toml 
   
 echo "\   
@@ -23,6 +23,7 @@ headless = true\n\
 enableCORS=false\n\
 port = \$port\n\
 " > ~/.streamlit/config.toml
+
 
 
 
