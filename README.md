@@ -58,7 +58,7 @@ https://github.com/user-attachments/assets/806dd79a-9c46-4f04-97cc-0413bf70d36d
 
 ## 👨‍💻 Author
 
-**Developed by [D Kumar](https://github.com/dkumar0501)** **IIT Patna**
+**Developed by [D Kumar](https://github.com/dkumar0501)**  **[IIT Patna]**
 
 ---
 
