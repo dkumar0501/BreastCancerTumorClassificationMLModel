@@ -1,4 +1,4 @@
-<h1 align="left">AI-Driven Breast Cancer Tumor Classification System</h1>
+<h1 align="left">Breast Cancer Tumor Classification ML Model</h1>
 
 <p align="left">
   <strong>Medical Imaging • Python • Deep Learning • CNN • Ultrasound Data</strong>
@@ -45,9 +45,9 @@ The system achieved **over 92% classification accuracy** on a dataset of **1,000
 4. **Evaluation:** Model validated using test data and confusion matrix  
 5. **Interpretation:** Predictions cross-verified with clinical insights  
 
-## 📷 Project Working Screenshots
+## 📷 Project Working Video
 
-*Add screenshots of training graphs, confusion matrix, and sample classification results here.*
+https://github.com/user-attachments/assets/806dd79a-9c46-4f04-97cc-0413bf70d36d
 
 ## 🧩 Future Enhancements
 
