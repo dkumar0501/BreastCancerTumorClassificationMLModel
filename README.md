@@ -2,7 +2,7 @@
 
 <p align="left">
   <strong>Medical Imaging • Python • Deep Learning • CNN • Ultrasound Data</strong> 
-</p>
+</p> 
    
 <!-- Badges -->  
 <p align="left">  
