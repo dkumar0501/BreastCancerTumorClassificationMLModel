@@ -5,7 +5,7 @@
 </p>
  
 <!-- Badges --> 
-<p align="left">
+<p align="left"> 
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/TensorFlow-Keras-orange?logo=tensorflow&logoColor=white" alt="TensorFlow">
   <img src="https://img.shields.io/badge/OpenCV-Enabled-success?logo=opencv&logoColor=white" alt="OpenCV">
