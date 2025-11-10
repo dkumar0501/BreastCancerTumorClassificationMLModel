@@ -14,7 +14,7 @@
 
 ## 📘 Overview
 
-This project presents an **AI-based breast cancer tumor classification model** utilizing **Convolutional Neural Networks (CNNs)** trained on **ultrasound imaging data**. It aims to support **early breast cancer detection** by classifying tumors as **malignant**, **benign**, or **normal** using deep learning and image analysis techniques. The system achieved **over 92% classification accuracy** on a dataset of **1,000+ ultrasound images**.
+This project presents an **AI-based breast cancer tumor classification model** utilizing **Convolutional Neural Networks (CNNs)** trained on **ultrasound imaging data**. It aims to support **early breast cancer detection** by classifying tumors as **malignant**, **benign**, or **normal** using deep learning and image analysis techniques. The system achieved **over 92% classification accuracy** on a dataset of **1,000+ ultrasound images**. 
 
 ## 🚀 Features
 
