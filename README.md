@@ -1,7 +1,7 @@
 <h1 align="left">Breast Cancer Tumor Classification ML Model</h1>
 
 <p align="left"> 
-  <strong>Medical Imaging • Python • Deep Learning • CNN • Ultrasound Data</strong>   
+  <strong>Medical Imaging • Python • Deep Learning • CNN • Ultrasound Data</strong>    
 </p>   
    
 <!-- Badges -->  
